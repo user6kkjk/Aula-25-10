@@ -5,3 +5,10 @@ C:\Users\Aluno\Desktop\Projeto 2\obj\Debug\Projeto 2.csproj.AssemblyReference.ca
 C:\Users\Aluno\Desktop\Projeto 2\obj\Debug\Projeto 2.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\Desktop\Projeto 2\obj\Debug\Projeto 2.exe
 C:\Users\Aluno\Desktop\Projeto 2\obj\Debug\Projeto 2.pdb
+C:\Users\Aluno\Desktop\Projetos Aula 25-10\Projeto 2\bin\Debug\Projeto 2.exe.config
+C:\Users\Aluno\Desktop\Projetos Aula 25-10\Projeto 2\bin\Debug\Projeto 2.exe
+C:\Users\Aluno\Desktop\Projetos Aula 25-10\Projeto 2\bin\Debug\Projeto 2.pdb
+C:\Users\Aluno\Desktop\Projetos Aula 25-10\Projeto 2\obj\Debug\Projeto 2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Projetos Aula 25-10\Projeto 2\obj\Debug\Projeto 2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Projetos Aula 25-10\Projeto 2\obj\Debug\Projeto 2.exe
+C:\Users\Aluno\Desktop\Projetos Aula 25-10\Projeto 2\obj\Debug\Projeto 2.pdb

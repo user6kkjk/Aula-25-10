@@ -17,27 +17,56 @@ namespace Projeto_3
             decimal altura;
             decimal imc;
 
-            Console.WriteLine("Qual seu nome?");
-            Console.ReadLine();
+            //
 
-            Console.WriteLine("Quantos anos vc tem?");
+            Console.Write("Qual seu nome? ");
+            nome = Console.ReadLine();
+
+            Console.Write("Quantos anos vc tem? ");
             idade = Convert.ToDecimal(Console.ReadLine());
 
-            Console.WriteLine(
-
-                "infome M para o sexo Masxulino e F para o sexo Feminino"
-
-                );
+            Console.Write("Digite M para Masculino e F para Feminino: ");
             sexo = Convert.ToChar(Console.ReadLine());
 
-            Console.WriteLine("Qual seu peso?");
+            Console.Write("Qual seu peso? ");
             peso = Convert.ToDecimal(Console.ReadLine());
 
-            Console.WriteLine("Qual sua altura?");
+            Console.Write("Qual sua altura? ");
             altura = Convert.ToDecimal(Console.ReadLine());
 
-            imc = altura * altura / peso;
-            Console.WriteLine("Seu IMC é de:" + imc );
+            imc = peso / altura * altura;
+            Console.Write("\nO valor do seu imc é de: " + imc.ToString("N2"));
+
+            //
+
+            if (imc < 18.5m)
+            {
+                Console.Write("Seu imc esta abaixo do nivel recomendado !");
+            }
+            else if (imc >= 25.00m && imc < 29.9m)
+            {
+                Console.Write("Seu imc esta no nivel de Excesso de Peso !");
+            }
+            else if (imc >= 30.00m && imc < 34.9m)
+            {
+                Console.Write("Seu imc esta no nivel de Obesidade 1 !");
+            }
+            else if (imc >= 35.00m && imc < 39.9m)
+            {
+                Console.Write("Seu imc esta no nivel de Obesidade 2 !");
+            }
+            else if (imc >= 40.00m)
+            {
+                Console.Write("Seu imc esta no nivel de Obesidade 3 !");
+            }
+            else
+            {
+                Console.WriteLine("Seu imc esta no nivel recomendado !");
+            }
+
+            //
+
+            Console.ReadKey();
         }
     }
 }

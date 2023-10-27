@@ -19,31 +19,32 @@ namespace Projeto_2
             decimal numeros = 4;
             decimal som_num;
 
-            Console.WriteLine("informe o primeiro número:");
+            //
+
+            Console.Write("informe o primeiro número: ");
             num1 = Convert.ToDecimal(Console.ReadLine());
             Console.Clear();
 
-            Console.WriteLine("informe o primeiro número:");
+            Console.Write("informe o primeiro número: ");
             num2 = Convert.ToDecimal(Console.ReadLine());
             Console.Clear();
 
-            Console.WriteLine("informe o primeiro número:");
+            Console.Write("informe o primeiro número: ");
             num3 = Convert.ToDecimal(Console.ReadLine());
             Console.Clear();
 
-            Console.WriteLine("informe o primeiro número:");
+            Console.Write("informe o primeiro número: ");
             num4 = Convert.ToDecimal(Console.ReadLine());
             Console.Clear();
+
+            //
 
             som_num = num1 + num2 + num3 + num4;
             media = som_num / numeros;
 
-            Console.WriteLine("A média dos 4 números é:"+ media);
-
-
-
-
-
+            Console.WriteLine("A média dos 4 números é: "+ media);
+        
+            Console.ReadKey();
         }
     }
 }

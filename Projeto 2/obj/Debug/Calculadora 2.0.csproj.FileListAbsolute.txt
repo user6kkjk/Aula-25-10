@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\Projetos Aula 25-10\Calculadora 2.0\bin\Debug\Projeto 2.exe.config
+C:\Users\Aluno\Desktop\Projetos Aula 25-10\Calculadora 2.0\bin\Debug\Projeto 2.exe
+C:\Users\Aluno\Desktop\Projetos Aula 25-10\Calculadora 2.0\bin\Debug\Projeto 2.pdb
+C:\Users\Aluno\Desktop\Projetos Aula 25-10\Calculadora 2.0\obj\Debug\Calculadora 2.0.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Projetos Aula 25-10\Calculadora 2.0\obj\Debug\Calculadora 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Projetos Aula 25-10\Calculadora 2.0\obj\Debug\Projeto 2.exe
+C:\Users\Aluno\Desktop\Projetos Aula 25-10\Calculadora 2.0\obj\Debug\Projeto 2.pdb
